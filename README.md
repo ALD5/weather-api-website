@@ -17,4 +17,5 @@ A webpage that retreives weather information from 7timer! and displays the weath
 The external API used for this project was 7timer!, which does not require API keys.
 
 # URL:
-[https://ald5.github.io/weather-api-website/]
+
+https://ald5.github.io/weather-api-website/
