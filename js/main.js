@@ -84,8 +84,8 @@ function getCityCoordinates() {
       html = null;                                                                                                   //we're done using html...
     });
       
-    document.getElementById("citySelected").removeEventListener("change", getCityCoordinates);                       //doesn't help much here...
+    //document.getElementById("citySelected").removeEventListener("change", getCityCoordinates);                       //doesn't help much here...
 
 }
 
-document.getElementById("citySelected").addEventListener("change", getCityCoordinates);              //unnecessary, mainly helps jogg when idle
+//document.getElementById("citySelected").addEventListener("change", getCityCoordinates);              //unnecessary, mainly helps jogg when idle
