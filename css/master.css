@@ -19,6 +19,10 @@ body h2 {
   color: rgb(25, 96, 155); /* header color */
 }
 
+body img.hero {
+  width: 100%; /* making it so image adjusts its size to window resolution */
+}
+
 .day {
   margin: 1em;
   gap: 10px;
