@@ -8,6 +8,7 @@
 
 body {
   gap: 10px;
+  font-family: sans-serif;
   background-color: whitesmoke;
   display: flex;
   flex-direction: column;
