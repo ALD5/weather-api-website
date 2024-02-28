@@ -7,10 +7,10 @@
 }
 
 body {
+  gap: 10px;
   background-color: whitesmoke;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
 }
 
